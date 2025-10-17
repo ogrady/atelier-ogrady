@@ -1,0 +1,510 @@
+{
+  "artwork": [
+    {
+      "id": 0,
+      "own": true,
+      "title": "Herr W.F.",
+      "type": "painting",
+      "year": "1987",
+      "image": "0portrait.jpg",
+      "comment": "Portrait",
+      "size": {
+        "width": 60,
+        "height": 50,
+        "depth": 0
+      },
+      "material": [
+        "Öl auf Leinwand"
+      ]
+    },
+    {
+      "id": 1,
+      "own": true,
+      "title": "Kathrin im Zug",
+      "type": "painting",
+      "year": "2002",
+      "image": "0girl.jpg",
+      "size": {
+        "width": 44,
+        "height": 30,
+        "depth": 0
+      },
+      "material": [
+        "Acryl auf Strukturpapier"
+      ]
+    },
+    {
+      "id": 2,
+      "own": true,
+      "title": "Gladiolen",
+      "type": "painting",
+      "year": "2002",
+      "image": "0flowers.jpg",
+      "size": {
+        "width": 30,
+        "height": 24,
+        "depth": 0
+      },
+      "material": [
+        "Aquarell"
+      ]
+    },
+    {
+      "id": 3,
+      "own": true,
+      "title": "Liegende",
+      "type": "painting",
+      "year": "2006",
+      "image": "0liegende.jpg",
+      "size": {
+        "width": 30,
+        "height": 40,
+        "depth": 0
+      },
+      "material": [
+        "Öl auf Leinwand"
+      ]
+    },
+    {
+      "id": 4,
+      "own": true,
+      "title": "Fisch und Besuch nach drei Tagen",
+      "type": "painting",
+      "year": "2006",
+      "image": "0fish.jpg",
+      "size": {
+        "width": 50,
+        "height": 70,
+        "depth": 0
+      },
+      "material": [
+        "Öl auf Leinwand"
+      ]
+    },
+    {
+      "id": 5,
+      "own": true,
+      "title": "Füße",
+      "type": "painting",
+      "year": "2006",
+      "image": "0feet.jpg",
+      "size": {
+        "width": 24,
+        "height": 18,
+        "depth": 0
+      },
+      "material": [
+        "Öl auf Leinwand"
+      ]
+    },
+    {
+      "id": 6,
+      "own": true,
+      "title": "Fromme Helene",
+      "type": "painting",
+      "year": "2008",
+      "image": "0helene.jpg",
+      "comment": "inspiriert durch die Vorstellung von I.Ott und C.Schwelien in Rottweil",
+      "size": {
+        "width": 30,
+        "height": 30,
+        "depth": 0
+      },
+      "material": [
+        "Öl auf Leinwand"
+      ]
+    },
+    {
+      "id": 7,
+      "own": true,
+      "title": "Wegweiser für Aufwärtsgucker",
+      "type": "painting",
+      "year": "2003",
+      "image": "0kindergarten.jpg",
+      "in": "Villa Kunterbunt, Kindergarten, Gosheim",
+      "comment": "Dreiteiler",
+      "size": {
+        "width": 200,
+        "height": 300,
+        "depth": 0
+      },
+      "material": [
+        "Acrylfarbe auf Wand"
+      ]
+    },
+    {
+      "id": 8,
+      "own": true,
+      "title": "Tomaten",
+      "type": "painting",
+      "year": "2005",
+      "image": "0tomatoes.jpg",
+      "size": {
+        "width": 230,
+        "height": 180,
+        "depth": 0
+      },
+      "material": [
+        "Acrylfarbe auf Wand"
+      ]
+    },
+    {
+      "id": 9,
+      "own": true,
+      "title": "People (Menschen)",
+      "type": "sculpture",
+      "year": "1984",
+      "image": "0people.jpg",
+      "comment": "Ausschnitt",
+      "size": {
+        "width": 15,
+        "height": 90,
+        "depth": 70
+      },
+      "material": [
+        "Ton, Schrühbrand, gefärbt"
+      ]
+    },
+    {
+      "id": 10,
+      "own": true,
+      "title": "Irische Geduld / Teapot",
+      "type": "sculpture",
+      "year": "1985",
+      "image": "0teapot.jpg",
+      "size": {
+        "width": 23,
+        "height": 19,
+        "depth": 19
+      },
+      "material": [
+        "Mixed Media"
+      ]
+    },
+    {
+      "id": 11,
+      "own": true,
+      "title": "Fr. B.",
+      "type": "sculpture",
+      "year": "2003",
+      "image": "0torso.jpg",
+      "comment": "Portrait",
+      "size": {
+        "width": 65,
+        "height": 30,
+        "depth": 28
+      },
+      "material": [
+        "Ton, gebrannt"
+      ]
+    },
+    {
+      "id": 12,
+      "own": true,
+      "title": "Festsitzen",
+      "type": "sculpture",
+      "year": "2004",
+      "image": "0lady.jpg",
+      "size": {
+        "width": 20,
+        "height": 12,
+        "depth": 15
+      },
+      "material": [
+        "Ton, gewachst"
+      ]
+    },
+    {
+      "id": 13,
+      "own": true,
+      "title": "Aug in Aug",
+      "type": "sculpture",
+      "year": "2007",
+      "image": "0auginaug.jpg",
+      "size": {
+        "width": 10,
+        "height": 16,
+        "depth": 20
+      },
+      "material": [
+        "Keramik, glasiert"
+      ]
+    },
+    {
+      "id": 14,
+      "own": true,
+      "title": "Pärchen",
+      "type": "sculpture",
+      "year": "2007",
+      "image": "0paar.jpg",
+      "size": {
+        "width": 17,
+        "height": 12,
+        "depth": 15
+      },
+      "material": [
+        "Ton, gebrannt mit Eisenoxid"
+      ]
+    },
+    {
+      "id": 15,
+      "own": true,
+      "title": "Theatermaske im Aufbau",
+      "type": "sculpture",
+      "year": "2008",
+      "image": "0maske.jpg",
+      "size": {
+        "width": 20,
+        "height": 15,
+        "depth": 14
+      },
+      "material": [
+        "Draht",
+        "Pappmaché",
+        "Acrylfarbe"
+      ]
+    },
+    {
+      "id": 16,
+      "own": true,
+      "title": "Was ich als Kind geglaubt habe",
+      "type": "drawing",
+      "year": "1988",
+      "image": "0calwer.jpg",
+      "in": "Baupläne Religion, W. Kalmbach und M.Hartenstein, Calwer Verlag Stuttgart, ISBN 3-7667",
+      "size": {
+        "width": 50,
+        "height": 70,
+        "depth": 0
+      },
+      "material": [
+        "Collage",
+        "Tinte",
+        "Buntstift"
+      ]
+    },
+    {
+      "id": 17,
+      "own": true,
+      "title": "Kommunikation / Tango Argentino",
+      "type": "drawing",
+      "year": "2006",
+      "image": "0tanz.jpg",
+      "size": {
+        "width": 50,
+        "height": 70,
+        "depth": 0
+      },
+      "material": [
+        "Aquarell und Tusche"
+      ]
+    },
+    {
+      "id": 18,
+      "own": true,
+      "title": "Die Eselsbank",
+      "type": "drawing",
+      "year": "2007",
+      "image": "0esel.JPG",
+      "in": "So war es!, Gudrun Barnstedt-Weber, ISBN 3-931741-22-2",
+      "size": {
+        "width": 30,
+        "height": 21,
+        "depth": 0
+      },
+      "material": [
+        "Buntstift",
+        "Filzstift"
+      ]
+    },
+    {
+      "id": 19,
+      "own": true,
+      "title": "Die Krönung der Torte",
+      "type": "drawing",
+      "year": "2007",
+      "image": "0kroenung.jpg",
+      "in": "Entwurf zu Inges Kochbuch, noch nicht gedruckt",
+      "size": {
+        "width": 9,
+        "height": 10,
+        "depth": 0
+      },
+      "material": [
+        "Tusche"
+      ]
+    },
+    {
+      "id": 20,
+      "own": true,
+      "title": "Der Zirkus ist da!",
+      "type": "drawing",
+      "year": "2008",
+      "image": "0zirkusbild.JPG",
+      "in": "Geschichten vom kleinen Dreckbär, Martina Rempe, ISBN 978-3-86386-038-7",
+      "size": {
+        "width": 30,
+        "height": 21,
+        "depth": 0
+      },
+      "material": [
+        "Buntstift"
+      ]
+    },
+    {
+      "id": 21,
+      "own": true,
+      "title": "Kleiner Bär",
+      "type": "drawing",
+      "year": "2008",
+      "image": "0baer.jpg",
+      "in": "Geschichten vom kleinen Dreckbär, Martina Rempe, ISBN 978-3-86386-038-7",
+      "size": {
+        "width": 30,
+        "height": 21,
+        "depth": 0
+      },
+      "material": [
+        "Bleistift"
+      ]
+    },
+    {
+      "id": 22,
+      "own": true,
+      "title": "Selbstportraits",
+      "type": "foreign",
+      "year": "2011",
+      "image": "0schuelerarbeiten.jpg",
+      "comment": "im Unterricht entstandene Schülerarbeiten",
+      "size": {
+        "width": 59,
+        "height": 42,
+        "depth": 0
+      },
+      "material": [
+        "Acryl auf Leinwand"
+      ]
+    },
+    {
+      "id": 23,
+      "own": true,
+      "title": "Insekten",
+      "type": "foreign",
+      "year": "2011",
+      "image": "0spinne.jpg",
+      "comment": "im Unterricht entstandene Schülerarbeiten",
+      "size": {
+        "width": 40,
+        "height": 30,
+        "depth": 20
+      },
+      "material": [
+        "Mixed Media"
+      ]
+    },
+    {
+      "id": 24,
+      "own": true,
+      "title": "Hand, eigene",
+      "type": "foreign",
+      "year": "2011",
+      "image": "0hande.jpg",
+      "comment": "Im Unterricht entstandene Schülerarbeiten",
+      "size": {
+        "width": 30,
+        "height": 21,
+        "depth": 0
+      },
+      "material": [
+        "Bleistift"
+      ]
+    },
+    {
+      "id": 25,
+      "own": true,
+      "title": "Malarbeiten",
+      "type": "foreign",
+      "year": "2011",
+      "image": "0kurs1.jpg",
+      "comment": "In Abendkursen entstandene Arbeiten von Kursteilnehmern",
+      "size": {
+        "width": 42,
+        "height": 29,
+        "depth": 0
+      },
+      "material": [
+        "Öl",
+        "Acryl",
+        "Bleistift"
+      ]
+    },
+    {
+      "id": 26,
+      "own": true,
+      "title": "Outdoor-Malarbeiten",
+      "type": "foreign",
+      "year": "2011",
+      "image": "0outside.jpg",
+      "comment": "In Abendkursen entstandene Arbeiten von Kursteilnehmern",
+      "size": {
+        "width": 42,
+        "height": 29,
+        "depth": 0
+      },
+      "material": [
+        "Öl",
+        "Acryl"
+      ]
+    },
+    {
+      "id": 27,
+      "own": true,
+      "title": "Törtchen",
+      "type": "foreign",
+      "year": "2011",
+      "image": "0toertchen.jpg",
+      "comment": "In einem Wochenendkurs entstandene Arbeiten von Kursteilnehmern",
+      "size": {
+        "width": 20,
+        "height": 20,
+        "depth": 0
+      },
+      "material": [
+        "Strukturpaste, Acrylfarbe"
+      ]
+    },
+    {
+      "id": 28,
+      "own": true,
+      "title": "Herr S.",
+      "type": "sculpture",
+      "year": "2010",
+      "image": "0misters1.jpg",
+      "comment": "Im Entstehungsprozess",
+      "size": {
+        "width": 30,
+        "height": 15,
+        "depth": 15
+      },
+      "material": [
+        "Pappmaché"
+      ]
+    },
+    {
+      "id": 29,
+      "own": true,
+      "title": "Herr S.",
+      "type": "sculpture",
+      "year": "2010",
+      "image": "0misters2.jpg",
+      "size": {
+        "width": 30,
+        "height": 15,
+        "depth": 15
+      },
+      "material": [
+        "Pappmaché, Acrylfarbe"
+      ]
+    }
+  ]
+}

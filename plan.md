@@ -275,7 +275,7 @@ export default function App() {
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
       </main>
-      <footer className="py-8 text-center text-sm text-gray-500">© {new Date().getFullYear()} Künstlername</footer>
+      <footer className="py-8 text-center text-sm text-gray-500">© {new Date().getFullYear()} Ute O'Grady</footer>
     </div>
   )
 }

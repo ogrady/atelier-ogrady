@@ -14,9 +14,9 @@ export default function Carousel({ items }: { items: Artwork[] }) {
     <div className="max-w-4xl mx-auto">
       {/* Carousel Image */}
       <div className="relative">
-        <div className="overflow-hidden rounded-lg w-full max-w-4xl aspect-[4/3] flex items-center justify-center bg-gray-100 mx-auto">
+        <div className="overflow-hidden rounded-lg w-full aspect-[4/3] flex items-center justify-center bg-gray-100 mx-auto">
           <img
-            src={`${import.meta.env.BASE_URL}/images/${active.image}`}
+            src={`${import.meta.env.BASE_URL}images/${active.image}`}
             alt={active.title}
             className="w-full h-full object-contain"
           />
@@ -48,7 +48,7 @@ export default function Carousel({ items }: { items: Artwork[] }) {
             onClick={() => setIndex(i)}
             className={`rounded overflow-hidden border ${i === index ? 'ring-2 ring-black' : 'border-gray-200'}`}
           >
-            <img src={`${import.meta.env.BASE_URL}/images/t_${it.image}`} alt={it.title} className="w-full h-20 object-cover" />
+            <img src={`${import.meta.env.BASE_URL}images/t_${it.image}`} alt={it.title} className="w-full h-20 object-cover" />
           </button>
         ))}
       </div>

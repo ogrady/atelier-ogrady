@@ -4,14 +4,20 @@ export default function Contact() {
   return (
     <section className="mx-auto max-w-lg">
       <h1>Kontakt</h1>
-      <p>Am besten per E‑Mail: <strong>deinname@example.com</strong></p>
-
-      <form className="mt-4 grid gap-3">
-        <input className="border p-2 rounded" placeholder="Name" />
-        <input className="border p-2 rounded" placeholder="E‑Mail" />
-        <textarea className="border p-2 rounded" placeholder="Nachricht" rows={5} />
-        <button className="bg-black text-white px-4 py-2 rounded">Absenden</button>
-      </form>
+      <h2>Postalisch</h2>
+      <p className="text-gray-800 mb-4">
+        Ute O'Grady<br/>
+        Hegauweg 9<br/>
+        78628 Rottweil<br/>
+      </p>
+      <h2>Telefonisch</h2>
+      <p>
+        0741 46970
+      </p>
+      <h2>Elektronisch</h2>
+      <p>
+        <a href="mailto:uteogrady@gmx.de">uteogrady@gmx.de</a>
+      </p>
     </section>
   )
 }

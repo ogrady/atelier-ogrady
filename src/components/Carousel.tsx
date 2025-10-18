@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import type { Artwork } from '../data/works'
 
 export default function Carousel({ items }: { items: Artwork[] }) {

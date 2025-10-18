@@ -1,5 +1,3 @@
-import React from 'react'
-
 export default function Imprint() {
   return (
     <div className="max-w-[800px] mx-auto px-4 py-12">

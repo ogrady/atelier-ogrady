@@ -1,5 +1,4 @@
 // src/pages/Works/CategoryPage.tsx
-import React from 'react'
 import { useParams, Link } from 'react-router-dom'
 import Carousel from '../../components/Carousel'
 import { getCategoryById } from '../../data/works'

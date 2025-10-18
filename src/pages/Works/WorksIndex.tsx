@@ -1,5 +1,4 @@
 // src/pages/Works/WorksIndex.tsx
-import React from 'react'
 import { Link } from 'react-router-dom'
 import { categories } from '../../data/works'
 import { toGerman } from '../../data/categoryLabels';

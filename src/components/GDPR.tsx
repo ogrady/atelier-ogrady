@@ -15,7 +15,7 @@ export default function GDPR() {
         Sie haben das Recht, jederzeit Auskunft über Ihre bei uns gespeicherten Daten zu erhalten sowie deren Löschung zu verlangen.
       </p>
       <p>
-        Kontakt für Datenschutzanfragen: <a href="mailto:info@example.com" className="underline hover:text-gray-900">info@example.com</a>
+        Kontakt für Datenschutzanfragen: <a href="mailto:uteogrady@t-online.de" className="underline hover:text-gray-900">uteogrady@t-online.de</a>
       </p>
     </div>
   )

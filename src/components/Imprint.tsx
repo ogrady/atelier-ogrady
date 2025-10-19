@@ -5,12 +5,12 @@ export default function Imprint() {
       <p>
         Verantwortlich für den Inhalt dieser Website:<br />
         Ute O'Grady<br />
-        Musterstraße 1<br />
-        12345 Musterstadt<br />
+        Hegauweg 9<br />
+        78628 Rottweil<br />
         Deutschland
       </p>
       <p>
-        Kontakt: <a href="mailto:info@example.com" className="underline hover:text-gray-900">info@example.com</a>
+        Kontakt: <a href="mailto:uteogrady@t-online.de" className="underline hover:text-gray-900">uteogrady@t-online.de</a>
       </p>
       <p>
         Alle Inhalte dieser Website sind urheberrechtlich geschützt.

@@ -15,7 +15,7 @@ export default function App() {
       <Navbar />
 
       {/* Hauptinhalt zentriert mit max-width */}
-      <main className="flex-1 mx-auto w-full px-4 py-12">
+      <main className="content flex-1 mx-auto w-full px-4 py-12">
         <Routes>
           <Route path="/" element={<About />} />
           <Route path="/dienstleistungen" element={<Services />} />

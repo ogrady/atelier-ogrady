@@ -10,7 +10,7 @@ export default function WorksIndex() {
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
         {categories.map((c) => {
           const sampleWork = c.works[0];
-          const bgImage = sampleWork ? `${import.meta.env.BASE_URL}/images/${sampleWork.image}` : ''
+          const bgImage = sampleWork ? `${import.meta.env.BASE_URL}images/${sampleWork.image}` : ''
 
           return (
             <Link

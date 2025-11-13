@@ -49,7 +49,7 @@ export default function About() {
 	</tr>
 	<tr>
 		<td className="year">1981 - 84:</td>
-		<td className="task">College of Art abd Design, Limerick (Studium der Bildenden Kunst / Skulptur. Diploma in Fine Art, Sculpture)</td>
+		<td className="task">College of Art and Design, Limerick (Studium der Bildenden Kunst / Skulptur. Diploma in Fine Art, Sculpture)</td>
 	</tr>
 	<tr>
 		<td className="year">1980 - 81:</td>
